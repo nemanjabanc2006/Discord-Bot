@@ -27,8 +27,8 @@ A fully customizable and beginner-friendly Discord bot built with `discord.py`. 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/DiscordBot-X.git
-cd DiscordBot-X
+git clone https://github.com/yourusername/Discord-Bot.git
+cd Discord-Bot
 ```
 
 ### 2. Install dependencies
