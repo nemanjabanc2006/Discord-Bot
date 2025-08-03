@@ -1,0 +1,7 @@
+1. !news - prikuplja podatke sa poslednje vesti na sajtu itvesti.info i sumira ih preko ai-a
+2. ping - bot ispisuje pong
+3. pong - bot ispisuje ping
+4. !rank - ispisuje tvoj trenutni level i xp
+5. !leaderboard - ispisuje 10 ljudi sa najvecim levelom na serveru
+6. !poll (tekst ankete) - pravi anketu sa 2 reakcije
+7. !animal (vrsta zivotinje) - bot izbacuje sliku trazene zivotinje
