@@ -29,6 +29,7 @@ A fully customizable and beginner-friendly Discord bot built with `discord.py`. 
 ```bash
 git clone https://github.com/yourusername/DiscordBot-X.git
 cd DiscordBot-X
+```
 
 ### 2. Install dependencies
 
@@ -36,6 +37,7 @@ Use Python 3.10+ and install required libraries:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ### 3. Create a .env file
 
