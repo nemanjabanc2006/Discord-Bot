@@ -14,6 +14,12 @@ A fully customizable and beginner-friendly Discord bot built with `discord.py`. 
 - 📊 Server stats dashboard (WIP)
 - 🌐 Easy setup via `.env` config
 
+
+## Commands
+
+-Check out all the bot commands in available_commands.txt
+
+
 ---
 
 ## 🚀 Getting Started
@@ -23,3 +29,17 @@ A fully customizable and beginner-friendly Discord bot built with `discord.py`. 
 ```bash
 git clone https://github.com/yourusername/DiscordBot-X.git
 cd DiscordBot-X
+
+### 2. Install dependencies
+
+Use Python 3.10+ and install required libraries:
+
+```bash
+pip install -r requirements.txt
+
+### 3. Create a .env file
+
+DISCORD_TOKEN=your-bot-token
+
+You can generate a token from the Discord Developer Portal.
+---
