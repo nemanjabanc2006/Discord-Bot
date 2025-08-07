@@ -1,4 +1,4 @@
-# 🤖 DiscordBot-X
+# 🤖 DiscordBot
 
 A fully customizable and beginner-friendly Discord bot built with `discord.py`. Includes features like moderation, XP system, memes, music playback, and more — ready to deploy and extend.
 
