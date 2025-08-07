@@ -8,10 +8,8 @@ A fully customizable and beginner-friendly Discord bot built with `discord.py`. 
 
 - 🔨 Moderation (kick, ban, mute, timeout)
 - 🏅 XP & Leveling system with rank cards
-- 🖼️ Meme & fun commands (Reddit, jokes)
-- 🎵 Music playback (YouTube streaming)
-- 🎉 Giveaways & event reminders
-- 📊 Server stats dashboard (WIP)
+- 🖼️ Meme & fun commands
+- 📊 Server stats dashboard
 - 🌐 Easy setup via `.env` config
 
 
